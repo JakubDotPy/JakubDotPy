@@ -38,11 +38,6 @@
 
 <br />
 
----
-
-### Spotify Playing 🎧
-
-[<img src="https://novatorem.jakubdotpy.vercel.app/api/spotify-playing" alt="JakubDotPy Spotify Playing" width="350" />](https://open.spotify.com/user/21nfmunj3j3iuvte77ax5w7oq)
 
 [twitter]: https://twitter.com/JakubDotPy
 [youtube]: https://www.youtube.com/Jakub1989YTb
