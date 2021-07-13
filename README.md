@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Docker and Django
 - 👯 I’m looking up to attending as much PyCons as possible
 - 🥅 2021 Goals: Contribute more to Open Source projects, Launch my own personal website 
-- ⚡ Fun fact: I used to play bass guitar / drums / piano, also I'm a big gun fan and owner.
+- ⚡ Fun fact: I used to play bass guitar / drums / piano
 
 ### Connect with me:
 
@@ -31,8 +31,6 @@
 <br />
 
 ### Stats:
-
-<img align="left" alt="JakubDotPy's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JakubDotPy&show_icons=true&hide_border=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakubdotpy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
