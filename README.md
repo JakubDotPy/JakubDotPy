@@ -2,7 +2,7 @@
 
 ### I'm a Developer, tech and music enthusiast !!
 
-- 🌱 I’m currently learning Docker and Django
+- 🌱 I’m currently working mostly with Docker and Django
 - 👯 I’m looking up to attending as much PyCons as possible
 - 🥅 2022 Goals: Contribute more to Open Source projects, Launch my own personal website 
 - ⚡ Fun fact: I used to play bass guitar / drums / piano
