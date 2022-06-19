@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Docker and Django
 - 👯 I’m looking up to attending as much PyCons as possible
-- 🥅 2021 Goals: Contribute more to Open Source projects, Launch my own personal website 
+- 🥅 2022 Goals: Contribute more to Open Source projects, Launch my own personal website 
 - ⚡ Fun fact: I used to play bass guitar / drums / piano
 
 ### Connect with me:
