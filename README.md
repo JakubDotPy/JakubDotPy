@@ -1,8 +1,11 @@
 ## Hi there, I'm Jakub 👋
 
-### I'm a Developer, tech and music enthusiast !!
+<img alt='I are programmer' src="https://user-images.githubusercontent.com/44404512/174478658-044e0643-268e-4e71-a671-c623bf7f8924.png">
+
+I'm from Czechia :czech_republic:, formerly known as Czech Republic and before that as Czechoslovakia.
 
 - 🌱 I’m currently working mostly with Docker and Django
+- 😻 Cat lover
 - 👯 I’m looking up to attending as much PyCons as possible
 - 🥅 2022 Goals: Contribute more to Open Source projects, Launch my own personal website 
 - ⚡ Fun fact: I used to play bass guitar / drums / piano
@@ -16,7 +19,7 @@
 
 <br />
 
-### Languages and Tools:
+### 🛠 &nbsp;Tech Stack
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -28,6 +31,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img href="#"><img alt="Sheets" title="Sheets" height="26px" src="https://img.icons8.com/color/48/000000/google-sheets.png" />
 <br />
 
 ### Stats:
