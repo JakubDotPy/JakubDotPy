@@ -5,9 +5,10 @@
 I'm from Czechia :czech_republic:, formerly known as Czech Republic and before that as Czechoslovakia.
 
 - 🌱 I’m currently working mostly with Docker and Django
+- Lecturer at Pyladies <img alt="pyladies" width="100px" src="https://w7.pngwing.com/pngs/530/885/png-transparent-pyladies-python-conference-python-software-foundation-flask-pyladies-text-logo-fictional-character.png" /> and Czechitas <img alt="czechitas" width="100px" src="https://cdn.myshoptet.com/usr/www.shop-czechitas.cz/user/logos/logo.png" /> 
 - 😻 Cat lover
 - 👯 I’m looking up to attending as much PyCons as possible
-- 🥅 2022 Goals: Contribute more to Open Source projects, Launch my own personal website 
+- 🥅 2023 Goals: Move to our newly built house and don't go bankrupt in the process.
 - ⚡ Fun fact: I used to play bass guitar / drums / piano
 
 ### Connect with me:
