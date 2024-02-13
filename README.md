@@ -36,10 +36,6 @@ I'm from Czechia :czech_republic:, formerly known as Czech Republic and before t
 <img href="#"><img alt="Sheets" title="Sheets" height="26px" src="https://img.icons8.com/color/48/000000/google-sheets.png" />
 <br />
 
-### Stats:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakubdotpy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <br />
 
 
