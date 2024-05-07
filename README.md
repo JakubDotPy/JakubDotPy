@@ -4,12 +4,14 @@
 
 I'm from Czechia :czech_republic:, formerly known as Czech Republic and before that as Czechoslovakia.
 
-- 🌱 I’m currently working mostly with Docker Django, FastAPI
+- 🌱 I’m currently working mostly with Docker, Django, FastAPI, Typer
 - Lecturer at Pyladies <img alt="pyladies" width="100px" src="https://w7.pngwing.com/pngs/530/885/png-transparent-pyladies-python-conference-python-software-foundation-flask-pyladies-text-logo-fictional-character.png" /> and Czechitas <img alt="czechitas" width="100px" src="https://cdn.myshoptet.com/usr/www.shop-czechitas.cz/user/logos/logo.png" /> 
-- 4x 😻 Cat lover
+- 4x 😻 cat dad
 - has a Python tattoo >>>_
 - 👯 I’m looking up to attending as much PyCons as possible
-- 🥅 2024 Goals: Teaching Python
+- 🥅 2024 Goals:
+  - keep teaching Python
+  - more AsyncIO
 - ⚡ Fun fact: I used to play bass guitar / drums / piano
 
 ### Connect with me:
